@@ -1,0 +1,42 @@
+.myName {
+    background-color: #007991;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.background {
+    background:linear-gradient(90deg, #fdfbfb 0%,#ebedee 100% );
+}
+
+.myNav {
+    background-color: #007991 !important;
+}
+
+.myName {
+    background-color: #007991;
+}
+
+.portfolio{
+    background-color: rgb(240, 240, 240);
+    margin-top: 20%;
+    padding-bottom: 5%;
+    margin-bottom: 10%;
+    height: fit-content !important;
+}
+
+.portfolio-jumbo {
+    background:linear-gradient(90deg, #fdfbfb 0%,#ebedee 100% );
+}
+
+.project-title {
+    /* color: #40c0b5; */
+    color: #007991;
+}
+
+.github-btn {
+    background-color: #0da4c2;
+}
+
+#footer {
+    background-color: #007991;
+}
