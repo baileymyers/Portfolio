@@ -16,9 +16,29 @@
     background:linear-gradient(90deg, #ee0979 0%,#ff6a00 100% );
 }
 
+.email-icon {
+    color: #ee0979;
+}
+.github-icon {
+    color: #f53640;
+    /* text-align: center; */
+}
+.linkedin-icon {
+    color: #ff6a00;
+}
+
+.contact-form {
+    margin-top: 5%;
+}
+
+.send-btn {
+    background-color: #ee0979 !important;
+    margin-bottom: 5%;
+}
+
 #footer {
     background:linear-gradient(90deg, #ee0979 0%,#ff6a00 100% );
-    margin-top: 10% !important;
+    margin-top: 5% !important;
 }
 
 #footer-text {

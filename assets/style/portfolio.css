@@ -26,6 +26,7 @@
 
 #footer {
     background:linear-gradient(90deg, #ee0979 0%,#ff6a00 100% );
+    margin-top: 10% !important;
 }
 
 #footer-text {
