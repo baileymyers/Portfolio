@@ -16,20 +16,8 @@
     background:linear-gradient(90deg, #ee0979 0%,#ff6a00 100% );
 }
 
-.about-me {
-    background-color: white;
-    margin-top: 10%;
-    padding-bottom: 5%;
-    margin-bottom: 10%;
-}
-
 .my-links {
-    color: #007991;
-}
-
-.about-me-head {
-    color: rgb(71, 189, 189);
-    padding-top: 5%;
+    color: #ee0979;
 }
 
 .email-icon {
@@ -41,11 +29,11 @@
 }
 .linkedin-icon {
     color: #ff6a00;
-    /* float: right; */
 }
 
 #footer {
     background:linear-gradient(90deg, #ee0979 0%,#ff6a00 100% );
+    margin-top: 10% !important;
 }
 
 #footer-text {

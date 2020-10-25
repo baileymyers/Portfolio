@@ -1,56 +1,26 @@
 .myName {
-    background-color: rgb(71, 189, 189);
+    background-color: #ee0979;
     padding-left: 5px;
     padding-right: 5px;
 }
 
 .background {
-    background-color: rgb(226, 226, 226);
+    background:linear-gradient(90deg, #fdfbfb 0%,#ebedee 100% );
 }
 
-.my-row {
-    background-color: white;
-    margin: 20px;
-    margin-top: 10%;
-    /* width: 75%; */
+.about-jumbo {
+    background:linear-gradient(90deg, #fdfbfb 0%,#ebedee 100% );
 }
 
-.contact-head {
-    color: rgb(71, 189, 189);
-    padding-top: 5%;
+.myNav {
+    background:linear-gradient(90deg, #ee0979 0%,#ff6a00 100% );
 }
 
-.contact-box {
-    padding-top: 25px;
-    padding-bottom: 25px;
+#footer {
+    background:linear-gradient(90deg, #ee0979 0%,#ff6a00 100% );
+    margin-top: 10% !important;
 }
 
-.contact-container {
-    margin-bottom: 10%;
-}
-
-.form-style {
-    padding-bottom: 10%;
-}
-
-  .submit-button {
-    background-color: rgb(71, 189, 189);
-    border-color: transparent;
-    color: white;
-    height: 60px;
-    width: 125px;
-    padding-bottom: 20px 25px;
-  }
-
-  footer {
-    background-color: rgb(140, 146, 149);
+#footer-text {
     text-align: center;
-    color: rgb(226, 226, 226);
-    height: 60px;
-    padding: 20px 100px;
-    border-top-color: rgb(71, 189, 189);
-    border-top-style: solid;
-    position: sticky;
-    bottom: 0;
-    width: auto;
 }
