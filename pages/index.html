@@ -5,58 +5,66 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.14.0/css/all.css" integrity="sha384-HzLeBuhoNPvSl5KYnjx0BT+WB0QEEqLprO+NBkkk5gbc67FTaL7XIGa2w1L0Xbgc" crossorigin="anonymous">
-    <link rel="stylesheet" href="./index.css">
-    <title>About Me</title>
+    <link rel="stylesheet" href="../assets/style/index.css">
+    <title>Bailey Myers - About Me</title>
 </head>
 <body class="background">
         <!-- Navigation Bar from Bootstrap -->
-        <nav class="navbar navbar-expand-lg navbar-light bg-light">
-            <a class="navbar-brand myName" href="#" style="color: white;">Bailey Myers</a>
-            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-              <span class="navbar-toggler-icon"></span>
-            </button>
-            <div class="collapse navbar-collapse" id="navbarNav">
-              <ul class="navbar-nav ml-auto">
-                <li class="nav-item">
-                  <a class="nav-link" href="./contact.html">Contact</a>
-                </li>
-                <li class="nav-item">
-                  <a class="nav-link" href="./portfolio.html">Portfolio</a>
-                </li>
-                <li class="nav-item active">
-                  <a class="nav-link" href="./index.html">About<span class="sr-only">(current)</span></a>
-                </li>
-              </ul>
-            </div>
-          </nav>
-    <main class="container">
-        <div class="row">
-          <div class="col">
-            <div class="col col-md-7 col-lg-8 about-me">
-              <h1 class="about-me-head">About Me</h1>
-              <hr>
-              <img src="images\me.JPG" class="my-image float-left">
-              <p>
-                I'm currently a trainer for the Provider Customer Service department at Regence BlueShield, and I'm learning full-stack web coding through UW Coding Bootcamp.
-              </p>
-              <ul>
-                <li>
-                  <a href="https://github.com/baileymyers">
-                    <span>Github</span>
-                  </a>
-                </li>
-                <li>
-                  <a href="https://www.linkedin.com/in/bailey-myers-9a39a3b8/">
-                    <span>LinkedIn</span>
-                  </a>
-                </li>
-              </ul>
-            </div>
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark text-white myNav">
+          <a class="navbar-brand myName" href="./index.html">Bailey Myers</a>
+          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav ml-auto">
+              <li class="nav-item">
+                <a class="nav-link" href="./portfolio.html">Portfolio</a>
+              </li>
+              <li class="nav-item active">
+                <a class="nav-link" href="./index.html">About<span class="sr-only">(current)</span></a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="./contact.html">Contact</a>
+              </li>
+            </ul>
+          </div>
+        </nav>
+        <div class="jumbotron jumbotron-fluid about-jumbo">
+          <div class="container">
+            <h1 class="display-4 text-dark">Nice to meet you!</h1>
+            <p class="lead text-dark">While you're here, you can learn more about me below and check out my portfolio.</p>
+            <p class="lead text-dark">If you have any questions, please feel free to reach out to me under <a href="./contact.html" class="my-links">Contact</a>.</p>
           </div>
         </div>
+    <main class="container">
+      <div class="row">
+        <div class="col-2 justify-content-center">
+          <img src="../assets/media/me.JPG" class="card-img-top img-fluid my-img" alt="Image of Bailey Myers">
+          <br>
+          <a href="./contact.html">
+            <i class="fas fa-envelope email-icon fa-2x"></i>
+          </a>
+          <a href="https://github.com/baileymyers">
+            <i class="fab fa-github github-icon fa-2x"></i>
+          </a>
+          <a href="https://www.linkedin.com/in/bailey-myers-9a39a3b8/">
+            <i class="fab fa-linkedin linkedin-icon fa-2x"></i>
+          </a>
+        </div>
+        <div class="col">
+          <h2>Who</h2>
+          <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Aperiam voluptatem vitae sint temporibus quisquam minus magni possimus quaerat numquam ad? Blanditiis dolores aliquid quos dignissimos. Ab excepturi dolorum cupiditate natus.</p>
+          <hr>
+          <h2>What</h2>
+          <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quam provident officia impedit molestias possimus ex est nemo reiciendis delectus nam. Ipsum praesentium magni nisi beatae voluptate deleniti, numquam qui consequatur.</p>
+          <hr>
+          <h2>Work</h2>
+          <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Unde veniam aut ab quas ullam. Aspernatur illum porro iusto itaque libero tempora quidem voluptatum tenetur quaerat exercitationem aut, error ex quae.</p>
+        </div>
+      </div>
     </main>
-    <footer>
-      &#169; Copyright
-  </footer>
+    <footer class="footer mt-auto py-3" id="footer">
+      <p class="text-white" id="footer-text">&#169; Bailey Myers</p>
+    </footer>
 </body>
 </html>

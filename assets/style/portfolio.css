@@ -1,5 +1,5 @@
 .myName {
-    background-color: #007991;
+    background-color: #ee0979;
     padding-left: 5px;
     padding-right: 5px;
 }
@@ -9,19 +9,7 @@
 }
 
 .myNav {
-    background-color: #007991 !important;
-}
-
-.myName {
-    background-color: #007991;
-}
-
-.portfolio{
-    background-color: rgb(240, 240, 240);
-    margin-top: 20%;
-    padding-bottom: 5%;
-    margin-bottom: 10%;
-    height: fit-content !important;
+    background:linear-gradient(90deg, #ee0979 0%,#ff6a00 100% );
 }
 
 .portfolio-jumbo {
@@ -29,16 +17,15 @@
 }
 
 .project-title {
-    /* color: #40c0b5; */
-    color: #007991;
+    color: #ee0979;
 }
 
 .github-btn {
-    background-color: #0da4c2;
+    background-color: #ee0979;
 }
 
 #footer {
-    background-color: #007991;
+    background:linear-gradient(90deg, #ee0979 0%,#ff6a00 100% );
 }
 
 #footer-text {
