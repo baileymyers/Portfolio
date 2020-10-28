@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/github_username/repo_name">
+  <a href="https://github.com/baileymyers/Portfolio">
     <img src="./assets/media/banner.jpg" alt="Portfolio Banner" width="auto" height="auto">
   </a>
 
