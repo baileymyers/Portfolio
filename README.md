@@ -76,7 +76,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Portfolio GIF][./assets\media\portfoliogif.gif]](https://baileymyers.github.io/Portfolio/)
+<a href="https://baileymyers.github.io/Portfolio/">
+    <img src="./assets/media/portfoliogif.gif" alt="Portfolio GIF" width="auto" height="auto">
+</a>
 
 Here's a blank template to get started:
 **To avoid retyping too much info. Do a search and replace with your text editor for the following:**
