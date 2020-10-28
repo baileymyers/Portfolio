@@ -35,22 +35,22 @@
 <br />
 <p align="center">
   <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="./assets/media/banner.jpg" alt="Portfolio Banner" width="auto" height="auto">
   </a>
 
-  <h3 align="center">YOUR_TITLE</h3>
+  <h3 align="center">My Portfolio</h3>
 
   <p align="center">
-    YOUR_SHORT_DESCRIPTION
+    While you're here, check out my current portfolio. This includes my most current work and projects to date, along with details about who I am and how you can contact me.
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/baileymyers/Portfolio"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://github.com/baileymyers/Portfolio">View Demo</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/baileymyers/Portfolio/issues">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/baileymyers/Portfolio/issues">Request Feature</a>
   </p>
 </p>
 
@@ -76,7 +76,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Portfolio GIF][./assets\media\portfoliogif.gif]](https://baileymyers.github.io/Portfolio/)
 
 Here's a blank template to get started:
 **To avoid retyping too much info. Do a search and replace with your text editor for the following:**
